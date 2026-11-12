@@ -1,0 +1,9 @@
+{
+  "name": "cloud-quest-functions",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "engines": {"node": "22"},
+  "scripts": {"seed": "node seed.js", "test": "node --test test/boundary.test.js", "test:emulator": "node test/emulator.mjs"},
+  "dependencies": {"firebase-admin": "^13.0.0", "firebase-functions": "^6.0.0", "genkit": "^1.0.0"}
+}

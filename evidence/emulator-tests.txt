@@ -1,0 +1,1 @@
+PASS: Auth gating, grounded demo hint, adversarial no-write/privacy, model failure, validation, fixed reward, retry, cross-user read denial, direct write denial.
